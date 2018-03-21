@@ -1,8 +1,7 @@
-# Code completopm
-
-## Descriptions for the repo
+# Code completion
 This is a repo holding codes for the paper: Code Completion with Neural Attention and Pointer Networks
 
+## Descriptions for the directories
 ### code
 * attention.py: standard attention model for predicting terminals
 * attention_N.py: standard attention model for predicting non-terminals
